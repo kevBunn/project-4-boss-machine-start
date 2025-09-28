@@ -14,7 +14,7 @@ This project involved building out an Express server that will handle various ro
   - [Ideas](#ideas)
   - [Meetings](#meetings)
 - [Future API Endpoints](#future-api-endpoints)
-  - [Work (Bonus)](#work-bonus)
+  - [Work](#work)
 - [Custom Middleware](#custom-middleware)
 - [Testing](#testing)
 - [Technologies](#technologies)
@@ -138,7 +138,7 @@ npm run test
 - **Node.js** 
 - **JavaScript**
 - **Mocha & Chai**
-  - Did not create tests in this project, but utilised provided test suite to complete project in a TDD way)
+  - Did not create tests in this project, but utilised provided test suite to complete project in a TDD way.
 - **React**
   - The React was provided as a part of the starting template by Codecademy. However, I found the template to be dated (5+ years old) and it seemed to have some problems; several errors in the bash terminal when runing 'npm install'. As such, and as this was not the main focus for this project, I used it as an opportunity to put AI Copilot to the test (for maximum productivety; to solve the issues and get back to the main objective of the project) and did some 'vibe coding' to refactor the JavaScript React code; so I could use up to date packages and dependencies.
 

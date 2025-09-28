@@ -13,11 +13,11 @@ This project involved building out an Express server that will handle various ro
   - [Minions](#minions)
   - [Ideas](#ideas)
   - [Meetings](#meetings)
+- [Future API Endpoints](#future-api-endpoints)
   - [Work (Bonus)](#work-bonus)
 - [Custom Middleware](#custom-middleware)
 - [Testing](#testing)
 - [Technologies](#technologies)
-- [License](#license)
 
 ## Project Overview
 
@@ -42,8 +42,8 @@ Make sure Node.js is installed.
    npm run start
    ```
 
-The frontend React app should automatically open in your default browser at `http://localhost:3000`  
-The backend server runs at `http://localhost:4001`
+   The frontend React app should automatically open in your default browser at `http://localhost:3000`  
+   The backend server runs at `http://localhost:4001`
 
 4. **Run the tests:**
    ```bash
@@ -131,10 +131,14 @@ The project includes a comprehensive test suite that checks for all essential fu
 npm run test
 ```
 
-## Technologies in the Project
+## Main Technologies used to complete the Project
 
-- **Node.js**
 - **Express.js**
+  Main technology used for this practice project.
+- **Node.js** 
 - **JavaScript**
 - **Mocha & Chai**
+  Did not create tests in this project, but utilised provided test suite to complete project in a TDD way)
+- **React**
+  The React was provided as a part of the starting template by Codecademy. However, I found the template to be dated (5+ years old) and it seemed to have some problems; several errors in the bash terminal when runing 'npm install'. As such, and as this was not the main focus for this project, I used it as an opportunity to put AI Copilot to the test (for maximum productivety; to solve the issues and get back to the main objective of the project) and did some 'vibe coding' to refactor the JavaScript React code; so I could use up to date packages and dependencies.
 
